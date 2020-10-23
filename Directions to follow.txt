@@ -1,0 +1,11 @@
+Please read this..
+
+I personally don't have that great of knowledge in handling files in GitHub.
+
+Here is what, my outline is and I don't know if it will work.
+
+1.All the classes will be separate class files under the same package "Parking lot"
+2.There will be a main public class called "Parking lot" where all the working happens
+3.If the above plan does not work due to certain incompatibilities or my short-sightedness, we will copy all the code on just one java file,
+
+4. Let's start working as soon as possible. We are already running of time. Other team have made written around 500 lines of codes.
